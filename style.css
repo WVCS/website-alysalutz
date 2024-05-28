@@ -1,3 +1,37 @@
 body {
-
+  background-color: #C6E2E9;
 }
+h1{
+  font-size:350%;
+  letter-spacing: 2px;
+  color: #225560;
+  font-family:"Verdana";
+}
+p{
+  font-size:150%;
+  letter-spacing: 1px;
+  color: #225560;
+  font-family:"Verdana";
+}
+img{
+  width: 300px;
+}
+ul{
+  text-align: center;
+    list-style-type: none;
+  font-family: Verdana;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 40px;
+  color: #225560;
+  
+}
+li a:hover{
+  background-color: #225560;
+  color: #C6E2E9;
+}
+
